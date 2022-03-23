@@ -1,0 +1,72 @@
+/*Start style of the QR code*/
+
+
+
+body{
+	background-color: hsl(212, 45%, 89%);
+	width: 1440px;
+	height: 800px;
+	font-family: 'Outfit', sans-serif;
+}
+
+.container-qrcode{
+	margin-left: 560px;
+	margin-top: 50px;
+	background-color: hsl(0, 0%, 100%);
+	width: 320px;
+	height: 520px;
+	border-radius: 20px;
+	display: inline-block;
+
+
+}
+
+.qrcode img {
+	width: 290px;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 15px;
+
+
+}
+
+.text p{
+	text-align: center;
+}
+
+.text1{
+	font-weight: 700;
+	font-size: 25px;
+	color: hsl(218, 44%, 22%);
+}
+
+.text2{
+	font-weight: 400;
+	font-size: 15px;
+	color: hsl(220, 15%, 55%);
+}
+
+.attribution{
+	position: relative;
+	display: block;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 13px;
+}
+
+.attribution a{
+	text-decoration: none;
+	color: hsl(224.38, 75%, 43.75%);
+}
+
+@media (max-width: 400px) {
+  body {
+    width: 375px;
+  }
+  .container-qrcode{
+  	margin-left: 25px;
+  	margin-top: 100px;
+  }
+
+}
+
