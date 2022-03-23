@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot1.jpg)
-![](./screenshot2.jpg)
+![Image text]https://github.com/Elramz77/qrcodechallenge/blob/main/screenshot1.png?raw=true
+![Image text]https://github.com/Elramz77/qrcodechallenge/blob/main/screenshot2.png?raw=true
 
 
 ### Links
@@ -32,5 +32,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/elramz77)
+- Frontend Mentor - [@elramz77](https://www.frontendmentor.io/profile/elramz77)
 - Twitter - [@elramz77](https://www.twitter.com/elramz77)
